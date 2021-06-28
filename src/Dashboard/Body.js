@@ -104,7 +104,7 @@ function Body() {
                         <h5 className="font-semibold text-xl">Employee</h5>
                         <h5>
                             <span className="block font-semibold text-xl">{employee && employee.length}</span>
-                            <span className="block text-gray-500 text-md">Members</span>
+                            <span className="block text-gray-500 text-md">Employees</span>
                         </h5>
                     </div>
                     <div className="lg:w-1/2 w-full flex justify-between ...">
